@@ -1,0 +1,70 @@
+/*Remove formatação padrão*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 1em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: #DEE5E5;
+}
+
+/*Layout*/
+#topo {
+    text-align: center;
+    background-color: #9DC5BB;
+    padding: 50px;
+}
+
+#design {
+    background-size: cover;
+    text-align: center;
+}
+
+#rodape {
+    text-align: center;
+    background-color: #9DC5BB;
+    padding: 15px;
+}
+#menu {
+    text-align: center;
+    padding: 30px 15px;
+}
+
+/*Formatações gerais*/
+
+h1 {
+    color: rgb(56, 56, 56);
+    font-size: 4em;
+}
+
+.titulo {
+    color: rgb(255, 255, 255);
+}
+
+/*Formatação dos links*/
+.botao {
+    text-align: center;
+    font-size: 2em;
+    padding: 15px 32px;
+    background: white;
+    border: none;
+    cursor: pointer;
+    margin: 5px 5px;
+    display: inline-flex;
+}
+
+a {
+    padding: 8px 15px;
+    text-decoration: none;
+}
+a:link, a:visited {
+    color:black
+}
+
+a:hover {
+    color:#586461;
+
+}
+
