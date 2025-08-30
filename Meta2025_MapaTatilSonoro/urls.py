@@ -1,5 +1,5 @@
 """
-URL configuration for MapaTatilSonoro project.
+URL configuration for Meta2025_MapaTatilSonoro project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/5.2/topics/http/urls/
