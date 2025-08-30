@@ -1,1 +1,5 @@
-# Meta2025-MapaTatilSonoro
+# Mapa tátil sonoro com QR Code e NFC para inclusão de pessoas com deficiência visual e auditiva em Belo Horizonte
+
+<p>
+    O projeto visa promover a inclusão de pessoas com deficiência visual e auditiva em pontos turísticos de Belo Horizonte, por meio do desenvolvimento de mapas táteis acessíveis que integram etiquetas NFC e QR Code. Esses dispositivos, quando acionados por celulares ou microcontroladores com saída de áudio, fornecem informações sonoras sobre locais como a Praça da Liberdade, o Museu Histórico Abílio Barreto e o Mercado Central. A proposta adota uma abordagem interdisciplinar que une eletrônica, design, tecnologia assistiva, acessibilidade e cultura maker. Os alunos do Curso Técnico em Eletrônica do CEFET-MG utilizarão recursos do laboratório maker, como impressoras 3D, cortadora a laser e máquina CNC, para construir protótipos com elementos em relevo, etiquetas em braille e dispositivos de leitura automatizada. Os áudios vinculados aos códigos trarão informações históricas e culturais. 
+</p>
